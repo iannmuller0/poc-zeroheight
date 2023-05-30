@@ -1,7 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import fetchTokens from "./importJsonFromZeroheight.sh";
 
 function App() {
+  fetchTokens()
   return (
     <div className="App">
       <header className="App-header">
