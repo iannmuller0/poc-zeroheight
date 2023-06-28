@@ -1,0 +1,78 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "dark": {
+          "value": "#4e3c74ff",
+          "type": "color"
+        },
+        "main": {
+          "value": "#624c92ff",
+          "type": "color"
+        },
+        "light": {
+          "value": "#816ab1ff",
+          "type": "color"
+        },
+        "stroke": {
+          "value": "#624c9280",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#816ab11f",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "dark": {
+          "value": "#1a4874ff",
+          "type": "color"
+        },
+        "main": {
+          "value": "#225c93ff",
+          "type": "color"
+        },
+        "light": {
+          "value": "#2b7bc7ff",
+          "type": "color"
+        },
+        "stroke": {
+          "value": "#225c9380",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#225c931f",
+          "type": "color"
+        }
+      }
+    },
+    "background": {
+      "default": {
+        "value": "#f5f5f5ff",
+        "type": "color"
+      },
+      "paper": {
+        "value": "#ffffffff",
+        "type": "color"
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "#212529ff",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#757575ff",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#9e9e9eff",
+        "type": "color"
+      }
+    }
+  }
+}
